@@ -1,0 +1,41 @@
+body {
+    height: 100vh;
+    
+}
+
+section {
+    background-color: #EAEBED;
+    height: 85%;
+}
+
+
+section .quote-shape i {
+    font-size: 65px;
+}
+
+section h1 {
+    font-family: "Anton", sans-serif;
+    font-size: 60px;
+}
+
+button {
+ outline: none;
+ cursor: pointer;
+ border: none;
+ padding: 0.9rem 2rem;
+ margin: 0;
+ font-family: inherit;
+ font-size: inherit;
+ position: relative;
+ display: inline-block;
+ letter-spacing: 0.05rem;
+ font-weight: 700;
+ font-size: 17px;
+ border-radius: 500px;
+ overflow: hidden;
+ background: #4c4c50;
+ color: ghostwhite;
+ transition: 0.4s;
+}
+
+
